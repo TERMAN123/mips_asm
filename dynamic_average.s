@@ -1,3 +1,4 @@
+# James J 
 .data 
 numinput: .asciiz "Input number of numbers whose average has to be calculated:\n"
 getvals: .asciiz "Input values: " 
