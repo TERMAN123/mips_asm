@@ -1,5 +1,3 @@
-# MIPS ASM -- Outputs Fibonacci numbers.
-# use spim if it still exists. 
 # James J 
 .data
 newl: .asciiz "\n"           # var with new line character
