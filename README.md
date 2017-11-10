@@ -1,5 +1,7 @@
+# # comp organization -- 9/13/2006
+
 # fibonacci
-# comp organization -- 9/13/2006
+ - Fibonnaci numbers...
 
 # dynamic_average
  - The program should be able to take input from the user. 
